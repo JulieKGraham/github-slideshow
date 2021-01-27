@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+'quote here' 
 Use the left arrow to go back!
 
 
